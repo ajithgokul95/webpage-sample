@@ -1,0 +1,50 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 13 Jan 2024 11:55:36 at https://wincroreclub.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://wincroreclub.com/ -O1 "C:\My Web Sites\ddddddddddddddd" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:56:00	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link https://wincroreclub.in/img/meteea.png (from https://wincroreclub.com/)
+11:56:01	Error: 	"Not Found" (404) at link https://wincroreclub.com/single-causes.html (from https://wincroreclub.com/)
+11:56:02	Error: 	"Not Found" (404) at link https://wincroreclub.com/fonts/dorid/DroidSerif-Bold-webfont.eot (from https://wincroreclub.com/css/droid.css)
+11:56:02	Error: 	"Not Found" (404) at link https://wincroreclub.com/fonts/fonts/fonts/dorid/DroidSerif-Bold-webfont.eot? (from https://wincroreclub.com/css/droid.css)
+11:56:02	Error: 	"Not Found" (404) at link https://wincroreclub.com/fonts/fonts/dorid/DroidSerif-Bold-webfont.woff (from https://wincroreclub.com/css/droid.css)
+11:56:02	Error: 	"Not Found" (404) at link https://wincroreclub.com/fonts/dorid/DroidSerif-Bold-webfont.ttf (from https://wincroreclub.com/css/droid.css)
+11:56:02	Error: 	"Not Found" (404) at link https://wincroreclub.com/fonts/dorid/DroidSerif-Bold-webfont.svg (from https://wincroreclub.com/css/droid.css)
+11:56:02	Error: 	"Not Found" (404) at link https://wincroreclub.com/fonts/dorid/DroidSerif-BoldItalic-webfont.eot (from https://wincroreclub.com/css/droid.css)
+11:56:02	Error: 	"Not Found" (404) at link https://wincroreclub.com/fonts/dorid/DroidSerif-BoldItalic-webfont.eot? (from https://wincroreclub.com/css/droid.css)
+11:56:02	Error: 	"Not Found" (404) at link https://wincroreclub.com/fonts/dorid/DroidSerif-BoldItalic-webfont.woff (from https://wincroreclub.com/css/droid.css)
+11:56:02	Error: 	"Not Found" (404) at link https://wincroreclub.com/fonts/dorid/DroidSerif-BoldItalic-webfont.ttf (from https://wincroreclub.com/css/droid.css)
+11:56:02	Error: 	"Not Found" (404) at link https://wincroreclub.com/fonts/dorid/DroidSerif-BoldItalic-webfont.svg (from https://wincroreclub.com/css/droid.css)
+11:56:02	Error: 	"Not Found" (404) at link https://wincroreclub.com/fonts/dorid/DroidSerif-Italic-webfont.eot (from https://wincroreclub.com/css/droid.css)
+11:56:02	Error: 	"Not Found" (404) at link https://wincroreclub.com/fonts/dorid/DroidSerif-Italic-webfont.eot? (from https://wincroreclub.com/css/droid.css)
+11:56:02	Error: 	"Not Found" (404) at link https://wincroreclub.com/fonts/dorid/DroidSerif-Italic-webfont.woff (from https://wincroreclub.com/css/droid.css)
+11:56:02	Error: 	"Not Found" (404) at link https://wincroreclub.com/fonts/dorid/DroidSerif-Italic-webfont.ttf (from https://wincroreclub.com/css/droid.css)
+11:56:02	Error: 	"Not Found" (404) at link https://wincroreclub.com/fonts/dorid/DroidSerif-Italic-webfont.svg (from https://wincroreclub.com/css/droid.css)
+11:56:02	Error: 	"Not Found" (404) at link https://wincroreclub.com/fonts/dorid/DroidSerif-Regular-webfont.eot (from https://wincroreclub.com/css/droid.css)
+11:56:02	Error: 	"Not Found" (404) at link https://wincroreclub.com/fonts/dorid/DroidSerif-Regular-webfont.eot? (from https://wincroreclub.com/css/droid.css)
+11:56:02	Error: 	"Not Found" (404) at link https://wincroreclub.com/fonts/dorid/DroidSerif-Regular-webfont.woff (from https://wincroreclub.com/css/droid.css)
+11:56:02	Error: 	"Not Found" (404) at link https://wincroreclub.com/fonts/dorid/DroidSerif-Regular-webfont.ttf (from https://wincroreclub.com/css/droid.css)
+11:56:02	Error: 	"Not Found" (404) at link https://wincroreclub.com/fonts/dorid/DroidSerif-Regular-webfont.svg (from https://wincroreclub.com/css/droid.css)
+11:56:02	Error: 	"Not Found" (404) at link https://wincroreclub.com/fonts/Material-Design-Iconic-Font.woff2?v=2.2.0 (from https://wincroreclub.com/css/material-design-iconic-font.min.css)
+11:56:02	Error: 	"Not Found" (404) at link https://wincroreclub.com/fonts/Material-Design-Iconic-Font.woff?v=2.2.0 (from https://wincroreclub.com/css/material-design-iconic-font.min.css)
+11:56:02	Error: 	"Not Found" (404) at link https://wincroreclub.com/fonts/Material-Design-Iconic-Font.ttf?v=2.2.0 (from https://wincroreclub.com/css/material-design-iconic-font.min.css)
+11:56:02	Error: 	"Not Found" (404) at link https://wincroreclub.com/fonts/fontawesome-webfont.eot?v=4.7.0 (from https://wincroreclub.com/css/font-awesome.min.css)
+11:56:02	Error: 	"Not Found" (404) at link https://wincroreclub.com/fonts/fontawesome-webfont.eot? (from https://wincroreclub.com/css/font-awesome.min.css)
+11:56:02	Error: 	"Not Found" (404) at link https://wincroreclub.com/fonts/fontawesome-webfont.woff?v=4.7.0 (from https://wincroreclub.com/css/font-awesome.min.css)
+11:56:02	Error: 	"Not Found" (404) at link https://wincroreclub.com/fonts/fontawesome-webfont.ttf?v=4.7.0 (from https://wincroreclub.com/css/font-awesome.min.css)
+11:56:02	Error: 	"Not Found" (404) at link https://wincroreclub.com/fonts/fontawesome-webfont.svg?v=4.7.0 (from https://wincroreclub.com/css/font-awesome.min.css)
+11:56:02	Error: 	"Not Found" (404) at link https://wincroreclub.com/css/owl.video.play.png (from https://wincroreclub.com/css/plugins.css)
+11:56:02	Error: 	"Not Found" (404) at link https://wincroreclub.com/img/logo.png (from https://wincroreclub.com/style.css)
+11:56:02	Error: 	"Not Found" (404) at link https://wincroreclub.com/img/icon/checkbox-check.png (from https://wincroreclub.com/style.css)
+11:56:02	Error: 	"Not Found" (404) at link https://wincroreclub.com/img/icon/icon_zoomin.png (from https://wincroreclub.com/style.css)
+11:56:02	Error: 	"Not Found" (404) at link https://wincroreclub.com/close.gif (from https://wincroreclub.com/style.css)
+11:56:02	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://wincroreclub.in/img/meteea.png (from https://wincroreclub.com/)
+11:56:02	Error: 	"Not Found" (404) at link https://wincroreclub.com/assets/1.jpeg (from https://wincroreclub.com/plan.php)
+11:56:02	Error: 	"Not Found" (404) at link https://wincroreclub.com/assets/11.jpeg (from https://wincroreclub.com/plan.php)
+11:56:02	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://wincroreclub.in/img/meteea.png (from https://wincroreclub.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 26 seconds : 79 links scanned, 39 files written (2465997 bytes overall) [1352926 bytes received at 52035 bytes/sec], 1547494 bytes transferred using HTTP compression in 60 files, ratio 19%, 10.8 requests per connection
+(37 errors, 2 warnings, 0 messages)
